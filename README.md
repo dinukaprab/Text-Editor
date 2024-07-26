@@ -3,7 +3,7 @@ I am gonna showing to you how to build a online text editor with javascript. thi
 
 Try This - [click here](https://text-editor-eight-beta.vercel.app/)
 
-## Screenshot
-Here we have project screenshot :
+### Screenshot
+Here project screenshot :
 
 ![screenshot](image.png)
